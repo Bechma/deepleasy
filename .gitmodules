@@ -1,0 +1,6 @@
+[submodule "deepleasy-backend"]
+	path = deepleasy-backend
+	url = https://github.com/Bechma/deepleasy-backend
+[submodule "deepleasy-frontend"]
+	path = deepleasy-frontend
+	url = https://github.com/Bechma/deepleasy-frontend
